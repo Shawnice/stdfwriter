@@ -1,5 +1,5 @@
 import unittest
-from recheaders import *
+from .recheaders import *
 
 
 class STDFWriterTest(unittest.TestCase):

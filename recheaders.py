@@ -11,7 +11,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
 
 
-from dtcodes import write_record_map, pack_len_map
+from .dtcodes import write_record_map, pack_len_map
 
 
 class Record:
