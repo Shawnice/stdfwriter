@@ -1,6 +1,6 @@
 # stdfwriter
 
-stdfwriter is a pythonic writer to write STDF(Standard Test Data Format, V4) file.
+stdfwriter is a pythonic STDF(Standard Test Data Format, V4) writer.
 
 # Installing
 
